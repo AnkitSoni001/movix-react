@@ -1,2 +1,2 @@
-﻿# movix-react: URL :http://lnkiy.in/movix-red-black
+﻿# movix-react: URL :http://b1f7d39e.movix-react.pages.dev/
 
