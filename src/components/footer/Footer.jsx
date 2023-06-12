@@ -28,16 +28,16 @@ const Footer = () => {
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
-                        <FaFacebookF />
+                        <a href="https://www.facebook.com/"> <FaFacebookF /> </a>
                     </span>
                     <span className="icon">
-                        <FaInstagram />
+                        <a href="https://www.instagram.com/"> <FaInstagram /> </a>
                     </span>
                     <span className="icon">
-                        <FaTwitter />
+                        <a href="https://twitter.com/"> <FaTwitter /> </a>
                     </span>
-                    <span className="icon">
-                        <FaLinkedin />
+                    <span className="icon" inherited color="white">
+                        <a href="https://www.linkedin.com/"> <FaLinkedin /> </a>
                     </span>
                 </div>
             </ContentWrapper>
