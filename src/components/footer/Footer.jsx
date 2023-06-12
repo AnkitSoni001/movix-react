@@ -22,9 +22,9 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    "Unlock the Magic of Cinema: Explore, Discover, and Share the Best Movies with Our Expert Reviews."<br>
-"Experience the World of Movies: Engage with Captivating Reviews and Uncover Hidden Gems."<br>
-"Your Ultimate Movie Companion: Expert Reviews and Recommendations for Every Film Lover."<br>
+                    "Unlock the Magic of Cinema: Explore, Discover, and Share the Best Movies with Our Expert Reviews."<br></br>
+"Experience the World of Movies: Engage with Captivating Reviews and Uncover Hidden Gems."<br></br>
+"Your Ultimate Movie Companion: Expert Reviews and Recommendations for Every Film Lover."<br></br>
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
