@@ -86,6 +86,9 @@ const SearchResult = () => {
                             Sorry, Results not found!
                         </span>
                     )}
+                    <span>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnW9v6g5Vc02hfulvEleJnffKM5eYDli2gQ&usqp=CAU"></img>
+                    </span>
                 </ContentWrapper>
             )}
         </div>
